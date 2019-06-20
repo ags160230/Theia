@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name"> Theia </string>
+    <string name="logo_text"> BLIND O\' VISION ⠠⠃⠇⠀⠠⠕⠄⠀⠠⠧⠊⠨⠝ </string>
+    <string name="about_but_text"> ABOUT </string>
+    <string name="settings_but_text"> SETTINGS </string>
+    <string name="emergency_contact_but_text"> EMERGENCY CONTACT </string>
+    <string name="route_status_but_text"> ROUTE STATUS </string>
+    <string name="voice_assistance_but_text"> VOICE ASSISTANCE </string>
+    <string name="back_but_text"> BACK </string>
+
+    <string name="config_but_text"> CONFIGURATION </string>
+    <string name="contact_but_text"> CONTACTS LIST </string>
+    <string name="sound_but_text"> SOUND </string>
+    <string name="misc_but_text"> MISC </string>
+
+    <string name="devs_title_text"> Team Developers </string>
+    <string name="dev_1_text"> \tAlex Lundin,\t\t\t\t\t\t\t\t\t\        aml1@utdallas.edu </string>
+    <string name="dev_2_text"> \tAnthony Spencer,\t\t\t\t\              ags160230@utdallas.edu </string>
+    <string name="dev_3_text"> \tChris Wilson,\t\t\t\t\t\t\t\t\         caw160130@utdallas.edu </string>
+    <string name="dev_4_text"> \tDhaval Rana,\t\t\t\t\t\t\t\t\          dnr130130@utdallas.edu </string>
+    <string name="dev_5_text"> \tJairo Galarza,\t\t\t\t\t\t\t\t\        jxg152830@utdallas.edu </string>
+    <string name="dev_6_text"> \tLogan Jones,\t\t\t\t\t\t\t\t\          lsj150230@utdallas.edu </string>
+
+    <string name="mission_title_text"> Mission </string>
+    <string name="lorem_ipsum_text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                     sed do eiusmod tempor incididunt ut labore et dolore magna
+                                     aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                     ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                     Duis aute irure dolor in reprehenderit in voluptate velit
+                                     esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                     occaecat cupidatat non proident, sunt in culpa qui officia
+                                     deserunt mollit anim id est laborum."'</string>
+
+</resources>
